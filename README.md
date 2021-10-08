@@ -1,5 +1,4 @@
 # Dataset_maker
-dataset maker
 ![2021-03-29 18 48のイメージ](https://user-images.githubusercontent.com/73927464/136593908-2dfa82b5-de49-4fe9-848a-241d0deb431a.jpg)
 
 -生データから学習用のディレクトリツリーを作成し指定された数拡張します.
